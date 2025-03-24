@@ -1,4 +1,4 @@
-# The Whispering Woods
+# 🌳 The Whispering Woods
 ## 1. Read Aloud
 **Leo** and his friends discovered a path leading to the Whispering Woods, known for the trees that could talk. The locals avoided it, saying it was bewitched, but the adventurous teens couldn’t resist exploring.
 
@@ -14,6 +14,11 @@ The moral of the story is *"Respect nature and learn from the past"*
 | Number| Word | Meaning |
 |-------|----------|----------|
 | 1     | Adverturous   | Not afraid to do new and dangerous or exciting things   |
-| 2     | Data     | Data     |
+| 2     | Bewitch     | To use magic to make someone do    |
+| 3     | Ancient   | Very old  |
+| 4     | Moved    | Emotionally affected    |
+| 5     | Preservation     | The act oh preserving something     |
 
 ## 4. Reflection
+- Think about your experience of preventing something bad using your past experience
+- Have you ever been disrepectful to the nature?
