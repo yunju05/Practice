@@ -6,6 +6,7 @@ As they walked deeper into the woods, the trees started whispering. Each tree to
 
 Moved by these stories, the friends promised to protect the woods and share their knowledge. They left the woods wiser, with a deeper respect for nature and its untold stories, ready to advocate for its preservation.
 ![This is an image](https://github.com/MK316/Digital-Literacy-Class/blob/main/materials/story02.png?raw=true)
+- Image Description: A mystical forest path under a twilight sky, with towering trees whose leaves rustle in the wind. Silhouettes of teenagers stand listening intently to the trees, faces illuminated by a soft, eerie glow from the trees.
 
 ## 2.Moral of the story
 The moral of the story is *"Respect nature and learn from the past"*
